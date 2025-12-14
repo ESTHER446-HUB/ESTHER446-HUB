@@ -1,6 +1,6 @@
 # Hi there!
 # 💫 About Me:
-🔭 I’m currently working on<br>👯 I’m looking to collaborate on<br>🤝 I’m looking for help with<br>🌱 I’m currently learning<br>💬 Ask me about<br>⚡ Fun fact
+🔭 I’m currently working on Building small projects to improve my programming skills and understanding real-world codebases.<br>👯 I’m looking to collaborate on Beginner-friendly projects, learning challenges, and open-source contributions where I can grow and learn with others.<br>🤝 I’m looking for help with Improving my coding logic, best practices, and understanding how to write clean, readable code.<br>🌱 I’m currently learning Programming fundamentals, problem-solving, and how to use AI tools effectively while learning to code.<br>💬 Ask me about My learning journey, beginner programming concepts, or how I’m using AI as a learning companion.<br>⚡ Fun fact I believe learning is better when you’re curious, consistent, and not afraid to ask questions 🚀
 
 
 ## 🌐 Socials:
